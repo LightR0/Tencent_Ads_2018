@@ -2,7 +2,7 @@
 感谢bryan的baselien：https://blog.csdn.net/bryan__/article/details/79623239       
 感谢郭大佬的周冠军分享：https://mp.weixin.qq.com/s/Ppw5NICbRs8wJj1ncSdbFw       
 感谢葛大佬的周冠军分享：https://mp.weixin.qq.com/s/SVSCbS_df3VW74fcESK3TQ       
-感谢yesofcourse的开源：https://github.com/HouJP/kaggle-quora-question-pairs                
+感谢yesofcourse的开源：https://github.com/HouJP/kaggle-quora-question-pairs                   
 感谢大队长第一届比赛的开源：https://github.com/freelzy/Tencent_Social_Ads                  
 感谢不知道叫啥名的大佬的平滑代码：https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.2f09311f6RzIy8&raceId=231647&postsId=4844        
 主要就是在bryan的baseline上加了几个特征，由于运算资源消耗太大，被公司的小哥哥警告再这样下去直接限制我的资源（本身服务器也一般），加上自己在实习，没有时间和精力做比赛，所以开源。     
